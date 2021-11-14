@@ -1,0 +1,4 @@
+mla = 3
+binSize = 20
+noTasks = 10
+conflictRatio = 1
