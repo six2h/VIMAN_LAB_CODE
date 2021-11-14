@@ -1,0 +1,4 @@
+﻿  OnTimeMeasure.cpp
+C:\Users\indur\source\repos\OnTimeMeasure\OnTimeMeasure\OnTimeMeasure.cpp(202,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\indur\source\repos\OnTimeMeasure\OnTimeMeasure\OnTimeMeasure.cpp(254,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OnTimeMeasure.vcxproj -> C:\Users\indur\source\repos\OnTimeMeasure\Debug\OnTimeMeasure.exe
